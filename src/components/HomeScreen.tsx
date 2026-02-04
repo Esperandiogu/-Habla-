@@ -21,7 +21,7 @@ const HomeScreen: React.FC<HomeScreenProps> = ({ onStartLessons, onStartFreeChat
             />
           </div>
           <h1 className="text-3xl md:text-5xl font-bold text-brand-900 mb-3">
-            Acelerador de Fluidez
+            ¡Habla!
           </h1>
           <p className="text-base md:text-lg text-brand-700 max-w-2xl mx-auto">
             Sua jornada para falar espanhol com confiança.
